@@ -1,0 +1,9 @@
+{
+	"ip":"ip.com",
+	"port": 25655,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register fuckass fuckass",
+	"login-cmd":"/login fuckass"
+}
