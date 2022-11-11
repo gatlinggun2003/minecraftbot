@@ -1,6 +1,6 @@
 {
-	"ip":"ip.com",
-	"port": 25655,
+	"ip":"artim2000.aternos.me",
+	"port": 16881,
 	"name": "afkbot1",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
